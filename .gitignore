@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+*iws
+*ipr
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+
+# Maven
+target/
